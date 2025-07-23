@@ -1,7 +1,6 @@
 ### Hi There, I'm Joel Henrique 👋
 
-- 🔭 I am currently working at @Faciltecnologia in the IT support role.
-- 🌱 I’m currently learning Angular, TypeScript, and Java with Spring.
+- 🌱 I’m currently learning Angular, TypeScript, Node JS, React JS, React Native and PHP.
 - 👯 I'm looking to collaborate in whatever way possible.
 - 📫 How to reach me: linkedin, discord and instagram.
 <br>
